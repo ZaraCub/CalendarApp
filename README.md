@@ -5,7 +5,7 @@ This Android app is a simple calendar application that allows users to view thei
 
 ### Features
 * Monthly view: Displays events for the entire month.
-Weekly view: Displays events for the current week.
-Daily view: Displays events for the selected day.
-Create new events.
-Navigate between different views seamlessly.
+* Weekly view: Displays events for the current week.
+* Daily view: Displays events for the selected day.
+* Create new events.
+* Navigate between different views seamlessly.
