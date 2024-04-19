@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="showNotificationButton" type="id" />
+    <item name="monthButton" type="id" />
+    <item name="notificationSwitch" type="id" />
+    <item name="soundSwitch" type="id" />
+    <item name="vibrationSwitch" type="id" />
+</resources>
